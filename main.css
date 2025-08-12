@@ -1,0 +1,17 @@
+
+        body{
+            background: linear-gradient(skyblue,blue);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+        }
+
+        .move-button { 
+            margin-top: 0px; /* Moves the button down */ 
+            margin-left: 100px; /* Moves the button to the right */ 
+            margin-bottom: 150;/*moves to the top*/
+            margin-right: 0px;/*moves to the left */
+        }   
+        h1{
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            font-size: 80px;
+        }

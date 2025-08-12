@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 80px;
+}
+body{
+background: linear-gradient(rgb(120, 252, 120), rgb(31, 165, 31) );
+background-repeat: no-repeat;
+background-attachment: fixed;
+
+}
+h2{
+    font-size: 75px;
+}
+.move-text {
+            margin-top: -350px; /* Moves the button down */ 
+            margin-left: 60px; /* Moves the button to the right */ 
+            margin-bottom: 50px;/*moves to the top*/
+            margin-right: 90px;/*moves to the left */
+}
+
+.move-textt {
+            margin-top: -210px; /* Moves the button down */ 
+            margin-left: 80px; /* Moves the button to the right */ 
+            margin-bottom: 50px;/*moves to the top*/
+            margin-right: 25px;/*moves to the left */
+}
+
+.move-texttt {
+            margin-top: -30px; /* Moves the button down */ 
+            margin-left: 20px; /* Moves the button to the right */ 
+            margin-bottom: 50px;/*moves to the top*/
+            margin-right: 75px;/*moves to the left */
+}
+.move-button { 
+            margin-top: 0px; /* Moves the button down */ 
+            margin-left: 540px; /* Moves the button to the right */ 
+            margin-bottom: 500;/*moves to the top*/
+            margin-right: 0px;/*moves to the left */
+        }   
