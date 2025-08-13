@@ -38,3 +38,17 @@ h2{
             margin-bottom: 500;/*moves to the top*/
             margin-right: 0px;/*moves to the left */
         }   
+
+         body {
+      animation: fadeInAnimation ease 1s; /* Name, easing, duration */
+      animation-iteration-count: 1; /* Play once */
+      animation-fill-mode: forwards; /* Maintain end state */
+    }
+          @keyframes fadeInAnimation {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
