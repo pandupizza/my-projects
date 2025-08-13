@@ -32,11 +32,9 @@ h2{
             margin-bottom: 50px;/*moves to the top*/
             margin-right: 75px;/*moves to the left */
 }
-.move-button { 
-            margin-top: 0px; /* Moves the button down */ 
-            margin-left: 540px; /* Moves the button to the right */ 
-            margin-bottom: 500;/*moves to the top*/
-            margin-right: 0px;/*moves to the left */
+.move-house { 
+           text-align: center;
+            
         }   
 
          body {
